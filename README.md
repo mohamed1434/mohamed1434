@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mohamed1434
 - 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ... how to code
 - 💞️ I’m looking to collaborate on ... projetcs
 - 📫 How to reach me ... intsa : @7amoud1434
 
